@@ -57,8 +57,3 @@ The notebook generates:
 ## Contributing
 Feel free to contribute to this project by submitting issues or pull requests. Ensure that your code follows the project guidelines and is well-documented.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any queries, contact the project maintainer at [your-email@example.com].
