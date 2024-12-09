@@ -1,7 +1,7 @@
-# Email Spam Detection Project
+# SmS Spam Detection Project
 
 ## Overview
-This project is a machine learning-based solution designed to identify spam emails effectively. It uses a variety of techniques to classify emails as either "spam" or "ham" (non-spam) based on their content and features.
+This project is a machine learning-based solution designed to identify spam SMS effectively. It uses a variety of techniques to classify emails as either "spam" or "ham" (non-spam) based on their content and features.
 
 ## Features
 - Preprocessing of email text data
